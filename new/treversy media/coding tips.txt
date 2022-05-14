@@ -1,0 +1,441 @@
+what's going on guys so this is the
+0:08
+first video with the new setup i still
+0:10
+have some uh tweaks to do here and there
+0:12
+but overall it's coming along so i
+0:14
+wanted to make a video just uh sharing
+0:17
+some personal tips that helped me to
+0:20
+learn new things and helped me learn how
+0:22
+to code
+0:23
+and learn new technologies because i
+0:24
+think when people start to learn how to
+0:27
+code it's very overwhelming there's so
+0:29
+much out there there's so much to learn
+0:30
+you don't know which which way to go um
+0:33
+and i think that it comes easy to very
+0:35
+few people you know and i'm definitely
+0:37
+not one of those people so these are
+0:39
+just some things that i've done
+0:41
+throughout the years i've tried many
+0:43
+different avenues but i think this is
+0:44
+the stuff that helped me the most and uh
+0:47
+and and i didn't know it right away it
+0:49
+took me years to really figure out what
+0:50
+works for me so uh and i think that that
+0:53
+these are some general things that will
+0:55
+help a lot of people so first thing i
+0:57
+would say focus on the fundamentals
+0:59
+this is one of the most important things
+1:01
+when learning to code i see people time
+1:04
+after time
+1:05
+they kind of rush through the the
+1:06
+fundamentals so they can start learning
+1:08
+a specific framework or something like
+1:10
+that or start creating projects which is
+1:13
+understandable that's that's the fun
+1:14
+part um but when i see people move too
+1:17
+fast
+1:18
+i also see them get really caught up and
+1:21
+and struggle later on and i've also done
+1:23
+this myself uh now
+1:25
+a lot of people say the phrase you know
+1:28
+focus on the fundamentals and a lot of
+1:30
+them don't really tell you what that
+1:32
+means and i do think it can be
+1:34
+subjective so
+1:36
+what i'm talking about really is
+1:39
+some general concepts of programming and
+1:42
+how programming languages work
+1:44
+as well as fundamentals in the specific
+1:46
+language that you choose i think it's a
+1:48
+good idea just to look at the different
+1:50
+languages look at where they are on the
+1:52
+stack you know high level verse low
+1:54
+level understanding the difference
+1:56
+between compiled languages and
+1:58
+interpreted languages and and just how
+2:00
+programming actually works and it just
+2:02
+gives you a better idea of of what's
+2:05
+available and gives you a better idea of
+2:07
+what you want to do you know where do
+2:08
+you what do you want to do python do you
+2:10
+want to do lower level c plus plus stuff
+2:12
+um it gives you just a good idea so it's
+2:14
+good to know the fundamentals of just
+2:16
+programming and then as far as languages
+2:19
+you want to learn data types data
+2:21
+structures iteration
+2:23
+algorithms really sharpen your skills
+2:25
+when it comes to any language you just
+2:28
+it helps you become a better problem
+2:29
+solver and that helps you through your
+2:31
+entire career regardless of what
+2:33
+language what framework you're using
+2:35
+these are skills that you're going to
+2:37
+always need and and they're always going
+2:39
+to be helpful
+2:40
+so the next one is study the docs i
+2:42
+think documentation can be a developer's
+2:45
+best friend and and this even helps you
+2:47
+with the first one of focusing on the
+2:49
+fundamentals
+2:50
+so if you're like in a waiting room or
+2:53
+somewhere where you have some time and
+2:54
+you have your phone bring up mdn or
+2:57
+php.net whatever it is you're learning
+2:59
+and just go over as much of the
+3:01
+documentation as you can you know
+3:03
+tutorials and courses are great but
+3:05
+there's those are still third-party
+3:06
+resources where the documentation is
+3:09
+always going to have the most up-to-date
+3:11
+content there's no fluff there's nobody
+3:13
+trying to sell you courses there's no
+3:15
+over-excited youtube personalities it's
+3:18
+just straight information
+3:20
+and that's what my learning consists of
+3:21
+is documentation uh project based video
+3:24
+courses and learning from other people's
+3:27
+code so that actually brings me to the
+3:29
+next one which is learn from other
+3:31
+people and this includes learning from
+3:33
+them personally if possible if you have
+3:36
+you know co-workers or other students
+3:38
+around you if you're in school or boot
+3:40
+camp try and learn as much as you can
+3:42
+from them without being a pain in the
+3:44
+ass you know don't follow them around
+3:46
+and ask them 100 questions but um you
+3:48
+know you want to you want to respect
+3:50
+their their space and time uh i would i
+3:53
+would also say learn from people's code
+3:55
+just go on github and find projects that
+3:58
+are similar to
+3:59
+what you want to do or what you're
+4:01
+building and just go through them line
+4:03
+for line and of course you're not going
+4:05
+to understand it all but you can go and
+4:07
+try to figure out what each chunk of
+4:09
+code means you know look up the
+4:11
+different methods and all that in in the
+4:13
+documentation so i think that real life
+4:16
+code examples are really helpful they're
+4:18
+not as as hand-holding as tutorials but
+4:20
+they are very helpful
+4:22
+so i would i would say always go beyond
+4:24
+tutorials
+4:25
+obviously i think tutorials and courses
+4:27
+are very useful i've basically dedicated
+4:30
+my career to them however i will be the
+4:32
+first one to tell you that tutorials are
+4:34
+only half the battle
+4:36
+every time you watch a project-based
+4:37
+tutorial you should follow along with
+4:39
+the instructor you know i create my
+4:41
+tutorials expecting the viewers to
+4:43
+follow along but don't have that be all
+4:46
+you do you know try and
+4:48
+build additional features onto the
+4:50
+project
+4:52
+and people like to make fun of to-do
+4:53
+lists and it's become kind of a meme or
+4:56
+a cliche but i think they're great
+4:58
+because they give you a foundation and
+5:00
+show you how to create crud
+5:02
+functionality create read update and
+5:04
+delete so you can take what you've
+5:06
+learned and you can add new resources
+5:08
+onto that project you know you can
+5:10
+change the look of it with css you could
+5:13
+create an api or you could create a
+5:15
+front end if it's an api tutorial you
+5:17
+can take multiple tutorials and build
+5:19
+something with the knowledge that you
+5:21
+get from each one so this will also take
+5:23
+you out of tutorial hell um and then the
+5:26
+next one i would say is immerse yourself
+5:28
+into learning and that probably needs
+5:30
+some explanation so i know that we live
+5:33
+in an age of twitter and instagram posts
+5:37
+youtube shorts tick tock videos and it
+5:40
+it really kind of scares me because
+5:42
+people are they seem to have no
+5:44
+attention span anymore and yes you can
+5:47
+learn tips and tricks from from really
+5:49
+short form content like that but what
+5:52
+has always helped me and i think will
+5:54
+help a lot of people is looking at
+5:56
+learning is kind of like a meditation
+5:57
+session you set some hours aside create
+6:00
+a comfortable atmosphere you know put on
+6:02
+some music if that's your thing get a
+6:04
+tea or coffee and just really immerse
+6:06
+yourself into what you're doing
+6:09
+and and i think one of the biggest
+6:10
+things that i can attribute to my
+6:13
+success is that i really like doing this
+6:15
+i love doing this i think it's peaceful
+6:17
+it's relaxing
+6:19
+until you really can't figure out then
+6:21
+you kind of want to smash your monitor
+6:22
+but that feeling when you finally do
+6:24
+figure it out is is all worth it you
+6:27
+know it's almost like a high and and
+6:29
+that's coming from an actual ex-drug
+6:31
+addict so i think that you should just
+6:33
+immerse yourself in what you're doing
+6:34
+and and uh you know that's that can be
+6:37
+really helpful
+6:38
+and then the last one i would say is
+6:39
+never be a know-it-all so i'm sure we've
+6:41
+all seen and known arrogant know-it-all
+6:44
+programmers in all honesty i can't stand
+6:46
+to be around these people
+6:48
+although them being an annoyance isn't
+6:50
+the reason that i say this i say this
+6:53
+because if you
+6:54
+if you think you know it all then you're
+6:56
+not going to be open to learning you
+6:58
+know there's no one on the planet that
+7:00
+could know everything about even a
+7:02
+single programming language you can
+7:04
+always learn more and you should always
+7:06
+look for opportunities to learn
+7:08
+and i don't care if you've been coding
+7:09
+for 50 years things are always changing
+7:12
+in technology and we should always be
+7:14
+growing as developers
+7:16
+you know we should we should try to help
+7:18
+each other every step of the way and
+7:20
+never bash each other for not knowing
+7:21
+something you know if your co-worker or
+7:24
+your your schoolmate or whatever if they
+7:26
+don't know something take that
+7:28
+opportunity to um to help them out you
+7:31
+know never make someone feel bad uh for
+7:34
+not knowing something you should you
+7:35
+should always try to be a student and a
+7:37
+teacher
+7:38
+all right so that's it guys um thanks so
+7:40
+much for watching hopefully some of
+7:42
+these tips will help you out and i will
+7:44
+see you soon

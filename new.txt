@@ -1,0 +1,805 @@
+2nd Part : 
+=============================
+
+প্রশ্ন: আবহাওয়া কেমন?/ আবহাওয়া কেমন? 
+উত্তর: - বৃষ্টি হচ্ছে। - এটি গরম এবং বাতাসযুক্ত। 
+
+প্রশ্ন: তাপমাত্রা কী? 
+উত্তর: এটি 24 ডিগ্রি সেন্টিগ্রেড। 
+
+প্রশ্ন: সময় কি? 
+উত্তর: - 4 টা বাজে। - এটি অর্ধেক গত তিন। - আমি দুঃখিত. আমি জানি না। - আমাকে আমার ফোন চেক করতে দিন। 
+
+প্রশ্ন: আজকের তারিখটি কী? 
+উত্তর: 17 ই অক্টোবর। 
+
+প্রশ্ন: কেমন আছেন? 
+উত্তর: - আমি ভাল আছি আপনাকে ধন্যবাদ। তোমার কী অবস্থা? - তেমন ভালো না. তবে আমি ঠিক আছি। 
+
+প্রশ্ন: আপনি কোথায় যাচ্ছেন? 
+উত্তর: আমি দোকানে যাচ্ছি। আমার কিছু কিনতে হবে। 
+
+প্রশ্ন: আপনি আজ কি করতে যাচ্ছেন? 
+উত্তর: আমি শপিং যাচ্ছি। 
+
+প্রশ্ন: আপনি কি করছেন? 
+উত্তর: - আমি একটি বই পড়ছি। - আমি থালা বাসন ধুয়ে দিচ্ছি। 
+
+প্রশ্ন: আপনি কোথায় যেতে চান? 
+উত্তর: আমি চিড়িয়াখানায় যেতে চাই। 
+
+প্রশ্ন: কি ব্যাপার? 
+উত্তর: - আমি এত ভাল লাগছে না। - আমি ভাল নাই. 
+
+প্রশ্ন: আমি সাহায্য করার জন্য কিছু করতে পারি? 
+উত্তর: সবকিছু ঠিক থাকবে। 
+
+প্রশ্ন: আপনার মনে কি আছে? 
+উত্তর: - আমি শুধু ভাবছি। - আমি কেবল স্বপ্ন দেখছিলাম। - এটি আপনার ব্যবসায়ের কোনও নয়। 
+
+প্রশ্ন: আপনি গত রাতে কি করলেন? 
+উত্তর: - আমি টিভি দেখেছি। - আমি পাস্তা এবং স্যুপ রান্না করেছি। 
+
+প্রশ্ন: আপনি আগামীকাল কি করতে যাচ্ছেন? 
+উত্তর: আমি সৈকতে ভলিবল খেলতে যাচ্ছি। 
+
+প্রশ্ন: আপনি কোন খেলাধুলা করতে পারেন? 
+উত্তর: আমি টেনিস, বাস্কেটবল, ফুটবল খেলতে পারি। 
+
+প্রশ্ন: আপনি আমাকে একটি হাত দিতে পারেন? 
+উত্তর: - কোনও সমস্যা নেই। - আমি ভয় করি আমি পারছি না। 
+
+প্রশ্ন: আপনি কি আমাকে অনুগ্রহ করতে পারেন? 
+উত্তর: আমি আপনাকে সাহায্য করে খুশি হব। 
+
+প্রশ্ন: আপনি কি আমাকে সেই বইটি দিতে পারেন? 
+উত্তর: অবশ্যই। 
+
+প্রশ্ন: আপনি উইন্ডোটি খোলার আপত্তি করবেন? 
+উত্তর: এটা আমার আনন্দ হবে। 
+
+প্রশ্ন: আমি কীভাবে আপনাকে সাহায্য করতে পারি?/ আমি আপনাকে সাহায্য করতে পারি? 
+উত্তর: হ্যাঁ! আমি একটি সোয়েটার খুঁজছি 
+
+প্রশ্ন: আমি কি এটি চেষ্টা করতে পারি? 
+উত্তর: অবশ্যই, পরিবর্তিত কক্ষগুলি সেখানে শেষ। 
+
+প্রশ্ন: আমি কি কোথাও চেষ্টা করতে পারি? 
+উত্তর: ফিটিং রুমটি বাম কোণে রয়েছে। 
+
+প্রশ্ন: আপনি কোন আকার পরেন? 
+উত্তর: মাঝারি ভাল হওয়া উচিত। 
+
+প্রশ্ন: আপনি কোন আকার নেন? 
+উত্তর: আমি একটি আকার নিই ১১. 
+
+প্রশ্ন: এটি কি ভাল ফিট? 
+উত্তর: - এটি কিছুটা ছোট। - এটা ঠিক আছে। 
+
+প্রশ্ন: আপনি কি আরও বড় কিছু পেয়েছেন? 
+উত্তর: অবশ্যই, আমরা আরও বড় আকার পেয়েছি। 
+
+প্রশ্ন: এটি কত?/ এর কত খরচ হয়? 
+উত্তর: এটি 11 ডলার। 
+
+প্রশ্ন: আপনি কীভাবে দিতে চান? 
+উত্তর: আমি নগদ অর্থ প্রদান করতে চাই। 
+
+প্রশ্ন: আমি কি ক্রেডিট কার্ড দিয়ে অর্থ প্রদান করতে পারি? 
+উত্তর: অবশ্যই। আমরা সমস্ত বড় কার্ড গ্রহণ করি। 
+
+প্রশ্ন: আপনার কি অন্য কিছু দরকার? 
+উত্তর: না, ধন্যবাদ। 
+
+প্রশ্ন: কেমন লাগছে? 
+উত্তর: - দুর্দান্ত! ভাল আর কখনও না। - সত্যিই ভয়াবহ। 
+
+প্রশ্ন: পার্টি কেমন ছিল? 
+উত্তর: - এটি একটি ভাল সময় ছিল। - বিরক্তিকর। আমি সেখানে যেতে অপেক্ষা করতে পারিনি। 
+
+প্রশ্ন: আপনি অর্ডার করতে প্রস্তুত? 
+উত্তর: - আমাদের আরও কয়েক মিনিট দরকার। - আমি একটি কেক চাই, দয়া করে! 
+
+প্রশ্ন: আপনি কি মুরগি বা পাস্তা চান? 
+উত্তর: আমি মুরগি করব। 
+
+প্রশ্ন: আপনি কী পান করতে চান? 
+উত্তর: - আইসড চা, দয়া করে। - আমার জন্য কিছুই, ধন্যবাদ। 
+
+প্রশ্ন: আপনি মিষ্টান্নের জন্য ঘর সংরক্ষণ করেছেন? 
+উত্তর: - না, আপনাকে ধন্যবাদ। আমি পরিপূর্ণ. - হ্যাঁ. আমি কি একটি তালিকা দেখতে পারি? 
+
+প্রশ্ন: এটির স্বাদ কেমন? 
+উত্তর: এটি সুস্বাদু! 
+
+প্রশ্ন: আমি কি আপনাকে অন্য কিছু পেতে পারি? 
+উত্তর: - না, আপনাকে ধন্যবাদ। - আমি বিলের জন্য প্রস্তুত, দয়া করে। - হ্যাঁ, আমি কি একটি মিষ্টি মেনু দেখতে পারি?
+
+
+3rd Part:
+================================
+
+
+
+প্রশ্ন: এই ইভেন্টটি সম্পর্কে আপনি কী ভাবেন? 
+উত্তর: আমি সত্যিই এটি পছন্দ করি! আপনি কি মনে করেন? 
+
+প্রশ্ন: আপনি এখানে কারও সাথে আছেন? 
+উত্তর: আমি আমার সেরা বন্ধু নিয়ে এসেছি। 
+
+প্রশ্ন: আপনি একটি পোষা প্রাণী পেয়েছেন? 
+উত্তর: আমি একটি কুকুরছানা পেয়েছি। 
+
+প্রশ্ন: আপনি কিভাবে করেন? 
+উত্তর: আপনি কিভাবে করবেন। তোমার সাথে আলাপ করে খুব ভালো লাগলো. 
+
+প্রশ্ন: এই কি? 
+উত্তর: এটি একটি পেন্সিল। 
+
+প্রশ্ন: সে দেখতে কেমন? 
+উত্তর: তিনি লম্বা এবং স্বর্ণকেশী চুলের সাথে পাতলা। 
+
+প্রশ্ন: সে কেমন? 
+উত্তর: তিনি সুন্দর। 
+
+প্রশ্ন: সে কী পছন্দ করে? 
+উত্তর: তিনি খুব স্মার্ট এবং সাহসী। 
+
+প্রশ্ন: আপনি ক্ষুধার্ত? 
+উত্তর: - হ্যাঁ। আমি ক্ষুধার্ত. - না আমি পূর্ণ। 
+
+প্রশ্ন: আপনি তাঁর সম্পর্কে কেমন অনুভব করছেন? 
+উত্তর: তিনি বেশ বন্ধুত্বপূর্ণ এবং সহায়ক। 
+
+প্রশ্ন: আমি কি উইন্ডোটি খুলতে পারি? 
+উত্তর: অবশ্যই। আজ অফিসে খুব গরম! 
+
+প্রশ্ন: আপনার কি সাহায্য দরকার? 
+উত্তর: - না, আমি ভাল। জিজ্ঞাসা করার জন্য ধন্যবাদ. - হ্যাঁ, দয়া করে, যদি আপনি কিছু মনে করেন না। 
+
+প্রশ্ন: আপনি প্রতিদিন কি করেন? 
+উত্তর: আমি প্রতিদিন সংগীত শুনি এবং ব্যাডমিন্টন খেলি। 
+
+প্রশ্ন: আপনি আজ কী করার পরিকল্পনা করছেন? 
+উত্তর: আমি এখনও নিশ্চিত নই। 
+
+প্রশ্ন: আপনি কাজের পরে কী পরিকল্পনা করছেন? 
+উত্তর: আমি আমার বন্ধুদের সাথে কেনাকাটা করতে যাচ্ছি। 
+
+প্রশ্ন: আপনি আগামীকাল মুক্ত? 
+উত্তর: - হ্যাঁ, আমি আগামীকাল মুক্ত। - কোনও সমস্যা নেই, আমরা আগামীকাল দেখা করতে পারি। 
+
+প্রশ্ন: আপনি কফির জন্য আমার সাথে যোগ দেবেন? 
+উত্তর: - আমি পছন্দ করি। ধন্যবাদ। - দুঃখিত। আমি ভয় করি আমার সময় নেই। 
+
+প্রশ্ন: আমরা কি একদিন একসাথে লাঞ্চ করতে পারি? 
+উত্তর: - আনন্দের সাথে। - আমি পছন্দ করি তবে আমি এই মুহুর্তে খুব ব্যস্ত। 
+
+প্রশ্ন: আপনি কি আমার সাথে ডিনার করতে চান? 
+উত্তর: হ্যাঁ। সেটা ভালো হবে. 
+
+প্রশ্ন: আপনি কোথায় যেতে চান? 
+উত্তর: আমি একটি জাপানি রেস্তোঁরায় যেতে চাই। 
+
+প্রশ্ন: আপনি কি আজ রাতে আমার সাথে সিনেমাতে আসতে চান? 
+উত্তর: - অবশ্যই, আমি পছন্দ করি। - দুঃখিত, আমি পারছি না। আমি অন্যান্য পরিকল্পনা পেয়েছি। 
+
+প্রশ্ন: আপনি কি এই সপ্তাহান্তে গল্ফের একটি রাউন্ড খেলতে চান? 
+উত্তর: - এটি দুর্দান্ত হবে। - আমি চাই তবে আমি এই সপ্তাহান্তে মুক্ত নই। 
+
+প্রশ্ন: টেনিস ক্লাবে বারবিকিউতে আসার বিষয়ে কীভাবে? 
+উত্তর: - অবশ্যই! মজা করা উচিত! - আমাকে জিজ্ঞাসা করতে আপনার ভাল লাগছে তবে আমি একটি অ্যাপয়েন্টমেন্ট পেয়েছি। 
+
+প্রশ্ন: আপনি কি দীর্ঘ অপেক্ষা করছেন? 
+উত্তর: - আমি সবেমাত্র এসেছি। - মাত্র কয়েক মিনিট। 
+
+প্রশ্ন: আপনি কীভাবে কাজ করবেন? 
+উত্তর: আমি সাধারণত আমার গাড়ি চালাই। 
+
+প্রশ্ন: এটি কি পাতাল রেল স্টেশনের কাছাকাছি? 
+উত্তর: হ্যাঁ, এটি খুব কাছাকাছি। 
+
+প্রশ্ন: এটি কতক্ষণ সময় নেয়? 
+উত্তর: এটি আধা ঘন্টা সময় নেয়। 
+
+প্রশ্ন: আপনি কতবার বাসে চড়েন? 
+উত্তর: একবারে। 
+
+প্রশ্ন: আপনি আমাকে কীভাবে থানায় যাবেন তা বলতে পারেন? 
+উত্তর: - ডানদিকে দ্বিতীয় রাস্তাটি নিন। - এটি ব্লকের মাঝখানে। 
+
+প্রশ্ন: মাফ করবেন! এখানে আশেপাশে কোন ব্যাংক আছে? 
+উত্তর: - হ্যাঁ! কাছাকাছি একটি ব্যাংক আছে। - আমি দুঃখিত, আমি প্রশ্ন জানি না: যাদুঘরের সর্বোত্তম উপায় কী? 
+উত্তর: - সেতু পেরিয়ে যান। ডানে ঘোরা. এটি অলিভার স্ট্রিটে। - আপনি বাস ড্রাইভারকে জিজ্ঞাসা করতে পারেন। 
+
+প্রশ্ন: আমি কি এমার সাথে কথা বলতে পারি, দয়া করে? 
+উত্তর: - মাত্র এক মুহুর্ত, দয়া করে। - নিশ্চয়ই. আমি এমা। - আমি দুঃখিত, এমা এই মুহুর্তে এখানে নেই। - তিনি এখনই উপলব্ধ নেই। 
+
+প্রশ্ন: সে কখন ফিরে আসবে? 
+উত্তর: তিনি 20 মিনিটের মধ্যে ফিরে আসবেন। 
+
+প্রশ্ন: আপনি আমার বার্তা পেয়েছেন? 
+উত্তর: - হ্যাঁ, আমি আপনার বার্তা পেয়েছি। - ওহ, হ্যাঁ, আমি মনে করি আমি আপনার কাছ থেকে কিছু পেয়েছি। 
+
+প্রশ্ন: আপনি কি একটি বার্তা রাখতে চান? 
+উত্তর: দয়া করে তাকে আমাকে ফোন করতে বলুন। 
+
+প্রশ্ন: আপনি এখানে কতক্ষণ কাজ করছেন? 
+উত্তর: আমি এখানে পাঁচ বছর কাজ করছি। 
+
+প্রশ্ন: সভা কখন শুরু হয়? 
+উত্তর: সভাটি সকাল 9 টায় শুরু হবে। 
+
+প্রশ্ন: সভা কখন শেষ হয়? 
+উত্তর: সভাটি সকাল 11 টায় শেষ হবে।
+
+Question: What do you think about this event?
+Answer: I really like it! What do you think?
+
+ 
+
+Question: Are you here with anybody?
+Answer: I came with my best friend.
+
+ 
+
+Question: Have you got a pet?
+Answer: I’ve got a puppy.
+
+ 
+
+Question: How do you do?
+Answer: How do you do. Pleased to meet you.
+
+ 
+
+Question: What’s this?
+Answer: This is a pencil.
+
+ 
+
+Question: What does she look like?
+Answer: She’s tall and slim with blonde hair.
+
+ 
+
+Question: How is she?
+Answer: She’s pretty.
+
+ 
+
+Question: What is he like?
+Answer: He is very smart and brave.
+
+ 
+
+Question: Are you hungry?
+Answer: 
+
+– Yes. I’m hungry.
+
+– No. I’m full.
+
+ 
+
+Question: How do you feel about him?
+Answer: He is quite friendly and helpful.
+
+ 
+
+Question: May I open the window?
+Answer: Certainly. It’s very hot in the office today!
+
+ 
+
+Question: Do you need help?
+Answer: 
+
+– No, I’m good. Thanks for asking.
+
+– Yes, please, if you don’t mind.
+
+ 
+
+Question: What do you do every day?
+Answer: I listen to music and play badminton everyday.
+
+ 
+
+Question: What are you planning to do today?
+Answer: I’m not sure yet.
+
+ 
+
+Question: What are you planning for after work?
+Answer: I’m going shopping with my friends.
+
+ 
+
+Question: Are you free tomorrow?
+Answer: 
+
+– Yes, I’m free tomorrow.
+
+– No problem, we can meet tomorrow.
+
+ 
+
+Question: Will you join me for coffee?
+Answer: 
+
+– I’d love to. Thanks.
+
+– Sorry. I’m afraid I don’t have time.
+
+ 
+
+Question: Could we have lunch together one day?
+Answer: 
+
+– With pleasure.
+
+– I’d love to but I’m very busy at the moment.
+
+ 
+
+Question: Would you like to have dinner with me?
+Answer: Yes. That would be nice.
+
+ 
+
+Question: Where do you want to go?
+Answer: I’d like to go to a Japanese restaurant.
+
+ 
+
+Question: Would you like to come to the cinema with me tonight?
+Answer: 
+
+– Sure, I’d love to.
+
+– Sorry, I can’t. I’ve got other plans.
+
+ 
+
+Question: Would you like to play a round of golf this weekend?
+Answer: 
+
+– That would be great.
+
+– I’d like to but I’m not free this weekend.
+
+ 
+
+Question: How about coming to the barbecue at the tennis club?
+Answer: 
+
+– Sure! That should be fun!
+
+– Nice of you to ask me but I’ve got an appointment.
+
+ 
+
+Question: Have you been waiting long?
+Answer: 
+
+– I’ve only just arrived.
+
+– Only a few minutes.
+
+ 
+
+Question: How do you get to work?
+Answer: I usually drive my car.
+
+ 
+
+Question: Is it close to the subway station?
+Answer: Yes, it’s very close.
+
+ 
+
+Question: How long does it take?
+Answer: It takes half an hour.
+
+ 
+
+Question: How often do you ride the bus?
+Answer: Once in a while.
+
+ 
+
+Question: Could you tell me how to get to the police station?
+Answer: 
+
+– Take the second road on the right.
+
+– It’s in the middle of the block.
+
+ 
+
+Question: Excuse me! Is there a bank near here?
+Answer: 
+
+– Yes! There is a bank nearby.
+
+– I’m sorry, I don’t know
+
+ 
+
+Question: What’s the best way to the museum?
+Answer: 
+
+– Go across the bridge. Turn right. It’s on Oliver Street.
+
+– You could ask the bus driver.
+
+ 
+
+Question: Can I speak to Emma, please?
+Answer: 
+
+– Just a moment, please.
+
+– Certainly. I’m Emma.
+
+– I’m sorry, Emma’s not here at the moment.
+
+– She’s not available right now.
+
+ 
+
+Question: When will she be back?
+Answer: She’ll be back in 20 minutes.
+
+ 
+
+Question: Did you get my message?
+Answer: 
+
+– Yes, I did get your message.
+
+– Oh, yeah, I think I got something from you.
+
+ 
+
+Question: Would you like to leave a message?
+Answer: Please ask her to call me back.
+
+ 
+
+Question: How long have you been working here?
+Answer: I’ve been working here five years.
+
+ 
+
+Question: What time does the meeting start?
+Answer: The meeting will start at 9am.
+
+ 
+
+Question: What time does the meeting finish?
+Answer: The meeting will finish at 11am.
+
+part 4 : 
+============================
+
+
+
+প্রশ্ন: আপনি অসুস্থ? 
+উত্তর: হ্যাঁ। আমি অসুস্থ 
+
+প্রশ্ন: আপনার লক্ষণগুলি কি? 
+উত্তর: - আমি মাথা ব্যথা পেয়েছি। - আমি অসুস্থ বোধ করছি। 
+
+প্রশ্ন: আপনি কতক্ষণ এইরকম অনুভব করছেন? 
+উত্তর: 2 দিনের জন্য। 
+
+প্রশ্ন: আপনি কি কোনও ধরণের ওষুধে আছেন? 
+উত্তর: আমার একটি অসুস্থ নোট দরকার। 
+
+প্রশ্ন: কাউন্টার কোথায়, দয়া করে? 
+উত্তর: - আমি জানি না। আসুন তথ্য যাই। - এটি এখানে শেষ, গেটের পাশের 7. 
+
+প্রশ্ন: আমি কি আপনার পাসপোর্ট পেতে পারি, দয়া করে? 
+উত্তর: হ্যাঁ, অবশ্যই। আপনি এখানে। 
+
+প্রশ্ন: আপনার কি ঘোষণা করার মতো কিছু আছে? 
+উত্তর: না, কিছুই না। শুধু সাধারণ ভাতা। 
+
+প্রশ্ন: আপনার কি কোনও ব্যাগ চেক করতে হবে? 
+উত্তর: হ্যাঁ, এই স্যুটকেস আছে। 
+
+প্রশ্ন: আপনি কি কোনও আইল সিট বা উইন্ডো সিট পছন্দ করবেন? 
+উত্তর: আইল, দয়া করে। 
+
+প্রশ্ন: আপনার ভ্রমণের উদ্দেশ্য কী? 
+উত্তর: - আমি এখানে ব্যবসায়। - আমি ছুটিতে আছি. 
+
+প্রশ্ন: আপনি কোথায় থাকবেন? 
+উত্তর: শেরাটন হ্যানয় হোটেলে কিছু বন্ধুদের সাথে। 
+
+প্রশ্ন: আপনি কতক্ষণ হ্যানয় থাকছেন? 
+উত্তর: প্রায় 2 সপ্তাহ। 
+
+প্রশ্ন: আপনি আমাকে বলতে পারেন গেট ই কোথায়? 
+উত্তর: - সরাসরি এগিয়ে যান। - আমি দুঃখিত, আমি জানি না। 
+
+প্রশ্ন: আমি কি আপনাকে কিছু খুঁজে পেতে সহায়তা করতে পারি? 
+উত্তর: হ্যাঁ, আমি কফি খুঁজছি। 
+
+প্রশ্ন: আপনি আমাকে বলতে পারেন মাংস কোথায়? 
+উত্তর: আপনি যদি হিমায়িত খাদ্য বিভাগে যান তবে আপনি সেখানে মাংস পাবেন। 
+
+প্রশ্ন: আমি অ-চর্বিযুক্ত বিস্কুটগুলি কোথায় পাব? 
+উত্তর: তারা আইল 9. 
+
+প্রশ্ন: আপনি কতটা চান? 
+উত্তর: - আমি আধা কিলো চাই। - আমি দয়া করে 200 গ্রাম মাংস চাই। 
+
+প্রশ্ন: আপনি আমাকে কোনও ছাড় দিতে পারেন? 
+উত্তর: - আমি আপনাকে সেই ছাড়টি দিতে পারি না। - আমি নিশ্চিত যে আমি আপনাকে ছাড় দিতে পারি। 
+
+প্রশ্ন: আপনার কি কোনও সহায়তা প্যাকিং দরকার? 
+উত্তর: আমি নিজেকে পরিচালনা করতে পারি ধন্যবাদ। 
+
+প্রশ্ন: আপনি একটি রসিদ চান? 
+উত্তর: - হ্যাঁ, ধন্যবাদ। - এটা দুর্দান্ত হবে। 
+
+প্রশ্ন: আপনি কোন সময় উন্মুক্ত? 
+উত্তর: আমরা সপ্তাহে সাত দিন সকাল 8 টা থেকে 9 টা পর্যন্ত খোলা থাকি। 
+
+প্রশ্ন: আপনি কোন সময় খুলবেন? 
+উত্তর: আমরা সকাল 9 টায় খুলি। 
+
+প্রশ্ন: আপনি কোন সময় বন্ধ? 
+উত্তর: আমরা সন্ধ্যা 6 টায় বন্ধ করি। 
+
+প্রশ্ন: আপনার কি কোনও রিজার্ভেশন আছে? 
+উত্তর: - হ্যাঁ, আমি করি। - না, আমি না। 
+
+প্রশ্ন: আপনি কোন ধরণের ঘর পছন্দ করবেন? 
+উত্তর: আমি একটি একক ঘর চাই, দয়া করে। 
+
+প্রশ্ন: আমি কি আপনার আইডি দেখতে পারি, দয়া করে? 
+উত্তর: অবশ্যই। এটা এখানে. 
+
+প্রশ্ন: আমি কি ঘরটি দেখতে পারি? 
+উত্তর: - আপনার ঘরটি দ্বিতীয় তলায় রয়েছে। - আপনার ঘরের নম্বর 401. 
+
+প্রশ্ন: আপনার কি ক্রেডিট কার্ড আছে, স্যার? 
+উত্তর: অবশ্যই। 
+
+প্রশ্ন: আপনি কতক্ষণ থাকবেন? 
+উত্তর: - এই সোমবার থেকে দুই সপ্তাহ। - আমি সপ্তাহের শেষ অবধি এখানে আছি। 
+
+প্রশ্ন: 14 ই এপ্রিলের জন্য আপনার কি কোনও কক্ষ উপলব্ধ? 
+উত্তর: আমি দুঃখিত, আমাদের কাছে কোনও কক্ষ উপলব্ধ নেই। 
+
+প্রশ্ন: আপনি কয়টি জায়গায় ভ্রমণ করেছেন? 
+উত্তর: আচ্ছা, আমি আমার সারা দেশে সমস্ত প্রদেশ পরিদর্শন করেছি। 
+
+প্রশ্ন: আপনি কি কখনও বিদেশে এসেছেন? 
+উত্তর: হ্যাঁ! আমার আছে. আমি গত বছর একটি ব্যবসায়িক ভ্রমণের জন্য জাপানে গিয়েছিলাম। 
+
+প্রশ্ন: আপনার ভ্রমণের সময় আপনি সাধারণত কী করেন? 
+উত্তর: আমি প্রায়শই দর্শনীয় স্থানগুলিতে যাই, ছবি তুলি। 
+
+প্রশ্ন: আপনি কি গাড়ি, ট্রেন বা বিমানের মাধ্যমে ভ্রমণ পছন্দ করেন? 
+উত্তর: আমি বিমানটিকে পছন্দ করি যদিও এটি কিছুটা ব্যয়বহুল। 
+
+প্রশ্ন: আপনি কি একা ভ্রমণ বা গাইডেড ট্যুরে যোগদান করতে পছন্দ করেন? 
+উত্তর: আমি আমার বন্ধুদের সাথে ব্যাকপ্যাকিং পছন্দ করি।
+
+Question: Are you sick?
+Answer: Yes. I’m sick.
+
+ 
+
+Question: What are your symptoms?
+Answer: 
+
+– I’ve got a headache.
+
+– I’ve been feeling sick.
+
+ 
+
+Question: How long have you been feeling like this?
+Answer: For 2 days.
+
+ 
+
+Question: Are you on any sort of medication?
+Answer: I need a sick note.
+
+ 
+
+Question: Where’s the counter, please?
+Answer: 
+
+– I don’t know. Let’s go to Information.
+
+– It’s over here, next to gate 7.
+
+ 
+
+Question: May I have your passport, please?
+Answer: Yes, of course. Here you are.
+
+ 
+
+Question: Do you have anything to declare?
+Answer: No, nothing. Just the normal allowance.
+
+ 
+
+Question: Do you have any bags to check?
+Answer: Yes, there’s this suitcase.
+
+ 
+
+Question: Would you prefer an aisle seat or a window seat?
+Answer: Aisle, please.
+
+ 
+
+Question: What’s the purpose of your trip?
+Answer: 
+
+– I’m here on business.
+
+– I’m on vacation.
+
+ 
+
+Question: Where are you going to be staying?
+Answer: With some friends in the Sheraton Hanoi Hotel.
+
+ 
+
+Question: How long are you staying in Hanoi?
+Answer: About 2 weeks.
+
+ 
+
+Question: Could you tell me where Gate E is?
+Answer: 
+
+– Go straight ahead.
+
+– I’m sorry, I don’t know.
+
+ 
+
+Question: Can I help you find something?
+Answer: Yes, I’m looking for coffee.
+
+ 
+
+Question: Could you tell me where the meat is?
+Answer: If you go to the frozen food section, you’ll find the meat there.
+
+ 
+
+Question: Where can I find the non-fat biscuits?
+Answer: They’re in aisle 9.
+
+ 
+
+Question: How much would you like?
+Answer: 
+
+– I’d like half a kilo.
+
+– I’d like 200 grams of meat please.
+
+ 
+
+Question: Can you offer me any discount?
+Answer: 
+
+– I can’t offer you that discount.
+
+– I’m sure I could offer you a discount.
+
+ 
+
+Question: Do you need any help packing?
+Answer: I can manage myself thank you.
+
+ 
+
+Question: Would you like a receipt?
+Answer: 
+
+– Yes, thanks.
+
+– That would be great.
+
+ 
+
+Question: What times are you open?
+Answer: We’re open from 8am to 9pm, seven days a week.
+
+ 
+
+Question: What time do you open?
+Answer: We open at 9am.
+
+ 
+
+Question: What time do you close?
+Answer: We close at 6pm.
+
+ 
+
+Question: Do you have a reservation?
+Answer: 
+
+– Yes, I do.
+
+– No, I don’t.
+
+ 
+
+Question: What kind of room would you like?
+Answer: I’d like a single room, please.
+
+ 
+
+Question: May I see your ID, please?
+Answer: Certainly. Here it is.
+
+ 
+
+Question: Could I see the room?
+Answer: 
+
+– Your room is on the second floor.
+
+– Your room number is 401.
+
+ 
+
+Question: Do you have a credit card, sir?
+Answer: Of course.
+
+ 
+
+Question: How long will you be staying?
+Answer: 
+
+– Two weeks from this Monday.
+
+– I’m here until the end of the week.
+
+ 
+
+Question: Do you have any rooms available for the 14th of April?
+Answer: I’m sorry, we don’t have any rooms available.
+
+ 
+
+Question: How many places have you traveled to?
+Answer: Well, I have visited all the provinces throughout my country.
+
+ 
+
+Question: Have you ever been abroad?
+Answer: Yes! I have. I went to Japan last year for a business trip.
+
+ 
+
+Question: What do you usually do during your trip?
+Answer: I often go sightseeing, take pictures.
+
+ 
+
+Question: Do you prefer traveling by car, train or plane?
+Answer: I prefer the plane although it is a little expensive.
+
+ 
+
+Question: Do you prefer traveling alone or joining a guided tour?
+Answer: I love backpacking with my friends.
